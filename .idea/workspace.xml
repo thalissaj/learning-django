@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="522a38dd-cc11-4462-85c5-a68d0d78a8f0" name="Default Changelist" comment="" />
+    <list default="true" id="522a38dd-cc11-4462-85c5-a68d0d78a8f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio2.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,22 +18,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercicio2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercicio3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/exercicio2.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -42,12 +32,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/teste.py" />
-        <option value="$PROJECT_DIR$/exercicio2.py" />
         <option value="$PROJECT_DIR$/exercicio3.py" />
+        <option value="$PROJECT_DIR$/exercicio2.py" />
       </list>
     </option>
   </component>
@@ -67,8 +60,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning" type="462c0819:PsiDirectoryNode" />
+              <item name="learning-django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-django" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -78,7 +71,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../loggi/web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -184,11 +177,13 @@
       <workItem from="1544792327709" duration="1655000" />
       <workItem from="1544818658872" duration="3263000" />
       <workItem from="1545092676506" duration="75000" />
+      <workItem from="1548981402526" duration="641000" />
+      <workItem from="1549313789345" duration="605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8681000" />
+    <option name="totallyTimeSpent" value="9927000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -201,9 +196,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="2560" height="1442" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.199284" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28082737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -237,19 +231,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercicio2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercicio3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicio2.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
